@@ -1,2 +1,3 @@
-# phoeser.github.io
-paulhoeser.de - Paul Höser und seine Projekte
+# paulhoeser.de
+
+Persönliche Projektseite von Paul Höser. Statisches HTML, gehostet über GitHub Pages.
